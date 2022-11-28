@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.content-container {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subtitle {
+  font-weight: bold;
+  font-size: 48px;
+  text-transform: uppercase;
+}
+.subtitle-text {
+  text-align: justify;
+}
+.bottom-team-container {
+  display: flex;
+  justify-content: center;
+}
+.content-container {
+  width: 45%;
+}
+.cta-button {
+  display: inline-block;
+  border: none;
+  padding: 20px 30px;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  border-radius: 30px;
+  margin-top: 50px;
+}
+.cta-button:hover {
+  background-color: rgba(0, 0, 0, 0.767);
+}
