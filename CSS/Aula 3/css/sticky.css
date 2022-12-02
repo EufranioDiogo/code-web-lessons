@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title-container {
+  position: sticky;
+  top: 0;
+  background-color: rgb(255, 3, 158);
+  padding: 10px;
+  color: white;
+}
